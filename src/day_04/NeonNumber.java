@@ -1,6 +1,5 @@
 package day_04;
 
-import static org.junit.jupiter.api.Assumptions.abort;
 
 import java.util.Scanner;
 import java.util.logging.Logger;
